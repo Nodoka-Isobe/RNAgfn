@@ -1,4 +1,3 @@
-```toml
 [build-system]
 requires = ["poetry-core>=1.0.8"]
 build-backend = "poetry.core.masonry.api"
@@ -249,4 +248,3 @@ omit = [
 [tool.coverage.report]
 show_missing = true
 skip_covered = true
-```
