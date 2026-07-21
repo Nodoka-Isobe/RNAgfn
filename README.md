@@ -11,7 +11,7 @@ RNAgfn requires **Python >= 3.10**.
 To install the package together with the required dependencies:
 
 ```bash
-git clone https://github.com/<username>/RNAgfn.git
+git clone https://github.com/Nodoka-Isobe/RNAgfn.git
 cd RNAgfn
 
 conda create -n rnagfn python=3.10
